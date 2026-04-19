@@ -1,0 +1,2 @@
+export WEBIN_USER='Webin-XXXXX'
+export WEBIN_PASS='your_password_here'
