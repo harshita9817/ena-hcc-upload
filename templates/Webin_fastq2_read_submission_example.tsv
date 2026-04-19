@@ -1,1 +1,4 @@
-
+FileType	fastq	Read submission file type									
+sample	study	instrument_model	library_name	library_source	library_selection	library_strategy	library_layout	forward_file_name	forward_file_md5	reverse_file_name	reverse_file_md5
+ERS00000001	PRJEB000000	Illumina NovaSeq X Plus	Example-Sample-01	TRANSCRIPTOMIC	cDNA	RNA-Seq	PAIRED	Example-Sample-01_R1_001.fastq.gz	aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa	Example-Sample-01_R2_001.fastq.gz	bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+ERS00000002	PRJEB000000	Illumina NovaSeq X Plus	Example-Sample-02	TRANSCRIPTOMIC	cDNA	RNA-Seq	PAIRED	Example-Sample-02_R1_001.fastq.gz	cccccccccccccccccccccccccccccccc	Example-Sample-02_R2_001.fastq.gz	dddddddddddddddddddddddddddddddd
