@@ -1,4 +1,4 @@
-# ENA Upload Workflow From HPC
+# ENA Upload Workflow From HCC
 
 This repository contains a practical workflow for submitting paired-end RNA-seq FASTQ files to ENA using:
 
